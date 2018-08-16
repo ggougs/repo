@@ -1,7 +1,7 @@
 h1 {
 
     color : red;
-    text-align: center;
+    font-size: 50px;
 
 }
 p{
@@ -13,7 +13,11 @@ body {
 
     background: url("../img/tigre.jpg"), no-repeat;
     background-size: cover;
-    
-    
+    text-align: center;
+}
+a {
+
+    color : black;
+    font-family: fantasy;
 
 }
