@@ -1,7 +1,7 @@
 h1 {
 
-    color : purple;
-    font-size: 50px;
+    color : grey;
+    font-size: 20px;
 
 }
 p{
@@ -17,7 +17,7 @@ body {
 }
 a {
 
-    color : peru;
+    color : yellowgreen;
     font-family: fantasy;
 
 }
