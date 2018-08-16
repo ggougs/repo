@@ -1,0 +1,19 @@
+h1 {
+
+    color : red;
+    text-align: center;
+
+}
+p{
+
+    font-size: 20px;
+
+}
+body {
+
+    background: url("../img/tigre.jpg"), no-repeat;
+    background-size: cover;
+    
+    
+
+}
